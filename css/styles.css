@@ -924,8 +924,9 @@ body.modal-open {
 }
 .parallax {
   /* The image used */
-  background-image: url("../img/pattern_wallpaper.png");
-  opacity: 0.5;
+  background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("../img/pattern_tile_small.png");
+  background-repeat: repeat;
+  /* opacity: 0.5; */
 
   /* Set a specific height */
   /* min-height: 500px; */
@@ -933,6 +934,13 @@ body.modal-open {
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
+}
+.blur {
+  /* background-color: rgba(0, 0, 0, 0.61); */
+  backdrop-filter: blur(5px);
+  /* border-radius: 40px; */
+}
+.beige {
+  background-color: rgba(254, 250, 244, 0.8);
 }
