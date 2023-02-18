@@ -187,7 +187,7 @@ $(document).ready(function () {
             title: "Matrimonio Marzia e Niccolò",
 
             // Event start date
-            start: new Date('Jun 3, 2023 15:00'),
+            start: new Date('Jun 3, 2023 17:00'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
@@ -200,7 +200,7 @@ $(document).ready(function () {
             address: 'Via Sopramura 3A, 25038 Rovato',
 
             // Event Description
-            description: "Non vediamo l'ora di vederci, per problemi o informazioni contattate TODO."
+            description: "Non vediamo l'ora di avervi con noi, per problemi o informazioni contattate:\nNiccolò: +39 3291810321\nMarzia: +39 3341455855"
         }
     });
 
@@ -212,7 +212,7 @@ $(document).ready(function () {
         e.preventDefault();
         var data = $(this).serialize();
 
-        $('#alert-wrapper').html(alert_markup('info', '<strong>Just a sec!</strong> We are saving your details.'));
+        $('#alert-wrapper').html(alert_markup('info', '<strong>Ancora un momento...</strong>stiamo salvando le tue informazioni.'));
 
         $.post('https://script.google.com/macros/s/AKfycbxCxtK6hwyLSZgtfscmFZtPpLpkhc6hBRwEO5wCCM8Y-Yb8Xyw_pLwi5Yyoehw_2hPgGA/exec', data)
             .done(function (data) {
