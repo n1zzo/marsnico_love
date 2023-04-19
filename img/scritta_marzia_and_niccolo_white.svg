@@ -25,10 +25,10 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.9632925"
-     inkscape:cx="268.35048"
+     inkscape:cx="269.38858"
      inkscape:cy="113.15359"
-     inkscape:window-width="1080"
-     inkscape:window-height="1883"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -127,30 +127,70 @@
      id="layer1"
      inkscape:label="Overlay"
      transform="translate(22.772922,2.9011285)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75"
-       x="-26.468922"
-       y="41.93087"
+    <g
+       aria-label="MARZIA"
        id="text9584"
-       inkscape:label="Marzia"><tspan
-         sodipodi:role="line"
-         id="tspan9582"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-         x="-26.468922"
-         y="41.93087">MARZIA</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.75"
-       x="208.16449"
-       y="41.594872"
+       style="font-size:48px;line-height:1.25;fill:#ffffff;stroke-width:0.75"
+       inkscape:label="Marzia">
+      <path
+         d="M 11.163078,8.7148701 V 41.93087 H 6.7950783 v -24.768 l -11.04,24.768 h -3.072 l -11.0880003,-24.816 v 24.816 h -4.368 V 8.7148701 h 4.704 L -5.7809217,36.17087 6.5070783,8.7148701 Z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1333" />
+      <path
+         d="m 38.331081,34.49087 h -14.592 l -2.688,7.44 h -4.608 l 12.096,-33.2639999 h 5.04 l 12.048,33.2639999 h -4.608 z m -1.248,-3.552 -6.048,-16.896 -6.048,16.896 z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1335" />
+      <path
+         d="m 68.523071,41.93087 -7.968,-13.68 h -5.28 v 13.68 h -4.368 V 8.4748701 h 10.8 q 3.792,0 6.384,1.296 2.64,1.2959999 3.936,3.5039999 1.296,2.208 1.296,5.04 0,3.456 -2.016,6.096 -1.968,2.64 -5.952,3.504 l 8.4,14.016 z m -13.248,-17.184 h 6.432 q 3.552,0 5.328,-1.728 1.776,-1.776 1.776,-4.704 0,-2.976 -1.776,-4.608 -1.728,-1.632 -5.328,-1.632 h -6.432 z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1337" />
+      <path
+         d="m 83.787061,38.13887 h 16.319999 v 3.792 H 78.603061 v -3.456 l 16.224,-26.208 h -16.032 V 8.4748701 H 100.01106 V 11.93087 Z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1339" />
+      <path
+         d="M 110.42708,8.4748701 V 41.93087 h -4.368 V 8.4748701 Z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1341" />
+      <path
+         d="m 137.64309,34.49087 h -14.592 l -2.688,7.44 h -4.608 l 12.096,-33.2639999 h 5.04 l 12.048,33.2639999 h -4.608 z m -1.248,-3.552 -6.048,-16.896 -6.048,16.896 z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1343" />
+    </g>
+    <g
+       aria-label="NICCOLÒ"
        id="text9584-3"
-       inkscape:label="Niccolò"><tspan
-         sodipodi:role="line"
-         id="tspan9582-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Poppins;-inkscape-font-specification:Poppins;fill:#ffffff;fill-opacity:1;stroke-width:0.75"
-         x="208.16449"
-         y="41.594872">NICCOLÒ</tspan></text>
+       style="font-size:48px;line-height:1.25;fill:#ffffff;stroke-width:0.75"
+       inkscape:label="Niccolò">
+      <path
+         d="m 238.16449,41.594872 h -4.368 l -17.568,-26.64 v 26.64 h -4.368 V 8.0908715 h 4.368 l 17.568,26.5920005 V 8.0908715 h 4.368 z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1346" />
+      <path
+         d="M 249.97245,8.1388715 V 41.594872 h -4.368 V 8.1388715 Z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1348" />
+      <path
+         d="m 255.78046,24.842872 q 0,-4.896 2.208,-8.784 2.208,-3.936 6,-6.1440005 3.84,-2.208 8.496,-2.208 5.472,0 9.552,2.6400005 4.08,2.64 5.952,7.488 h -5.232 q -1.392,-3.024 -4.032,-4.656 -2.592,-1.632 -6.24,-1.632 -3.504,0 -6.288,1.632 -2.784,1.632 -4.368,4.656 -1.584,2.976 -1.584,7.008 0,3.984 1.584,7.008 1.584,2.976 4.368,4.608 2.784,1.632 6.288,1.632 3.648,0 6.24,-1.584 2.64,-1.632 4.032,-4.656 h 5.232 q -1.872,4.8 -5.952,7.44 -4.08,2.592 -9.552,2.592 -4.656,0 -8.496,-2.16 -3.792,-2.208 -6,-6.096 -2.208,-3.888 -2.208,-8.784 z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1350" />
+      <path
+         d="m 292.83643,24.842872 q 0,-4.896 2.208,-8.784 2.208,-3.936 6,-6.1440005 3.84,-2.208 8.496,-2.208 5.472,0 9.552,2.6400005 4.08,2.64 5.952,7.488 h -5.232 q -1.392,-3.024 -4.032,-4.656 -2.592,-1.632 -6.24,-1.632 -3.504,0 -6.288,1.632 -2.784,1.632 -4.368,4.656 -1.584,2.976 -1.584,7.008 0,3.984 1.584,7.008 1.584,2.976 4.368,4.608 2.784,1.632 6.288,1.632 3.648,0 6.24,-1.584 2.64,-1.632 4.032,-4.656 h 5.232 q -1.872,4.8 -5.952,7.44 -4.08,2.592 -9.552,2.592 -4.656,0 -8.496,-2.16 -3.792,-2.208 -6,-6.096 -2.208,-3.888 -2.208,-8.784 z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1352" />
+      <path
+         d="m 346.6924,41.930872 q -4.656,0 -8.496,-2.16 -3.84,-2.208 -6.096,-6.096 -2.208,-3.936 -2.208,-8.832 0,-4.896 2.208,-8.784 2.256,-3.936 6.096,-6.0960005 3.84,-2.208 8.496,-2.208 4.704,0 8.544,2.208 3.84,2.1600005 6.048,6.0480005 2.208,3.888 2.208,8.832 0,4.944 -2.208,8.832 -2.208,3.888 -6.048,6.096 -3.84,2.16 -8.544,2.16 z m 0,-3.792 q 3.504,0 6.288,-1.632 2.832,-1.632 4.416,-4.656 1.632,-3.024 1.632,-7.008 0,-4.032 -1.632,-7.008 -1.584,-3.024 -4.368,-4.656 -2.784,-1.632 -6.336,-1.632 -3.552,0 -6.336,1.632 -2.784,1.632 -4.416,4.656 -1.584,2.976 -1.584,7.008 0,3.984 1.584,7.008 1.632,3.024 4.416,4.656 2.832,1.632 6.336,1.632 z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1354" />
+      <path
+         d="m 373.62037,38.042872 h 11.712 v 3.552 h -16.08 V 8.1388715 h 4.368 z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1356" />
+      <path
+         d="m 405.15633,41.930872 q -4.656,0 -8.496,-2.16 -3.84,-2.208 -6.096,-6.096 -2.208,-3.936 -2.208,-8.832 0,-4.896 2.208,-8.784 2.256,-3.936 6.096,-6.0960005 3.84,-2.208 8.496,-2.208 4.704,0 8.544,2.208 3.84,2.1600005 6.048,6.0480005 2.208,3.888 2.208,8.832 0,4.944 -2.208,8.832 -2.208,3.888 -6.048,6.096 -3.84,2.16 -8.544,2.16 z m 0,-3.792 q 3.504,0 6.288,-1.632 2.832,-1.632 4.416,-4.656 1.632,-3.024 1.632,-7.008 0,-4.032 -1.632,-7.008 -1.584,-3.024 -4.368,-4.656 -2.784,-1.632 -6.336,-1.632 -3.552,0 -6.336,1.632 -2.784,1.632 -4.416,4.656 -1.584,2.976 -1.584,7.008 0,3.984 1.584,7.008 1.632,3.024 4.416,4.656 2.832,1.632 6.336,1.632 z m 4.8,-35.0400005 v 3.264 l -10.224,-5.47199998 V -2.9011285 Z"
+         style="font-family:Poppins;-inkscape-font-specification:Poppins"
+         id="path1358" />
+    </g>
   </g>
   <g
      id="g2052"
